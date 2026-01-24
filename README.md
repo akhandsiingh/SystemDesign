@@ -1,5 +1,5 @@
 This repository contains system design solutions explained from a
-fresher / SDE-1 perspective, focusing on clarity, correctness, and
+fresher focusing on clarity, correctness, and
 real-world constraints.
 
 ## 🎯 What This Repository Covers
