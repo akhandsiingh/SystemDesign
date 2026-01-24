@@ -11,5 +11,3 @@ real-world constraints.
 - Database schema design
 - Concurrency handling
 - Trade-offs and future improvements
-
-Each system is documented in a **structured and interview-ready format**.
